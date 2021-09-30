@@ -2,3 +2,5 @@ asdasd
 cambio para descargar proyecto desde git
 prueba 2
 corregido el error encontrado
+
+cambio que de momenot no quiero liberar
