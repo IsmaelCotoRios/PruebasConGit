@@ -1,2 +1,3 @@
 este es un ficehro de texto
 Modificamos el fichero 2 desde github
+añado los cambios de la feature1
